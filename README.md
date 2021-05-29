@@ -1,4 +1,4 @@
-### 👋 Hi... I'm Aasif Iqbal 
+### 👋 Hi there
 
 - 🔭 I’m currently working on Laravel, Codeigniter and Core Php.
 - 📫 How to reach me: aasif.iqbal3000@gmail.com
